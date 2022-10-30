@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/desafio-ally/static/css/main.46983c17.css",
+    "main.js": "/desafio-ally/static/js/main.f619325d.js",
+    "static/js/787.31ff68fe.chunk.js": "/desafio-ally/static/js/787.31ff68fe.chunk.js",
+    "static/media/journey-g5441a6277_1280.jpg": "/desafio-ally/static/media/journey-g5441a6277_1280.3fd24a4b6f51953bf9d9.jpg",
+    "static/media/compass-g1b94e5b30_1280.png": "/desafio-ally/static/media/compass-g1b94e5b30_1280.4e9059ef3b36154da28c.png",
+    "index.html": "/desafio-ally/index.html",
+    "main.46983c17.css.map": "/desafio-ally/static/css/main.46983c17.css.map",
+    "main.f619325d.js.map": "/desafio-ally/static/js/main.f619325d.js.map",
+    "787.31ff68fe.chunk.js.map": "/desafio-ally/static/js/787.31ff68fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46983c17.css",
+    "static/js/main.f619325d.js"
+  ]
+}
